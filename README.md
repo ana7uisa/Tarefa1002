@@ -56,4 +56,4 @@ Os seguintes componentes estão interconectados à placa BitDogLab:
 4. Monitore a execução via porta serial.
 
 ## Vídeo
-[Vídeo explicando e demonstrando na placa](https://drive.google.com/file/d/1kTXzm-EajKYDblvWpIPGfAOWL3XpynYf/view?usp=sharing)
+[Vídeo explicando e demonstrando na placa](https://www.canva.com/design/DAGfgBoLlAk/klZqxNQcpXn_Grlj61znwA/edit?utm_content=DAGfgBoLlAk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
